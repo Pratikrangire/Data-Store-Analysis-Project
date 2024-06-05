@@ -1,4 +1,4 @@
-# Store-Analysis-Project
+# Data-Store-Analysis-Project
 
 ![image](https://github.com/prateekrangire/Data-Store-Analysis-Project/assets/135497067/6c0db8d0-1f90-4128-b273-d735c8089bb5)
 
